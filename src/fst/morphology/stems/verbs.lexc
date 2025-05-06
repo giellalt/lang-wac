@@ -4,5 +4,8 @@
 
 LEXICON Verbs
 verb    Persons   ;
+chíux+V:chíux # "make" ;
+lx̱am+V:lx̱am # "to say" ;
+
 
 ! vim: set ft=xfst-lexc:
