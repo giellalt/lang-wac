@@ -19,6 +19,7 @@ The Usage extents are marked using following tags:
 The nominals are inflected in the following Case and Number
 
 The possession is marked as such:
+
 The comparative forms are:
 Numerals are classified under:
 Verb moods are:
@@ -37,6 +38,8 @@ Semantics are classified with
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
+* **+Der/NomAg** agent V»N 
+* **+Der/NomAct** action V»N 
 
 Morphophonology
 To represent phonologic variations in word forms we use the following
@@ -71,6 +74,16 @@ these flags. There exists a ready-made regex that will do the actual down-casing
 given the proper use of these flags.
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
+
+### VERBS
+* @U.Sc.Sg3@  
+* @U.Sc.Pl3@  
+* @R.Sc.Sg3@  
+* @R.Sc.Pl3@  
+* @D.Sc@  
+* @C.Sc@  
+
+wac NOUNS
 
 The word forms in Wasco-Wishram language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
