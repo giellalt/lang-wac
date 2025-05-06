@@ -11,5 +11,47 @@ LEXICON Cases
  +N+Pl+Loc:ias #     ;
          #:0   Nouns ; ! Normally going via a R lexicon adding compound tags.
 
+LEXICON WAC_NOUNS_A/ID
+@U.GEN.SGa@ WAC_NOUNS_01 ;
+@U.GEN.PLid@ WAC_NOUNS_01 ;
+
+LEXICON WAC_NOUNS_A/IT
+@U.GEN.SGa@ WAC_NOUNS_01 ;
+@U.GEN.PLit@ WAC_NOUNS_01 ;
+
+LEXICON WAC_NOUNS_I/IT
+@U.GEN.SGi@ WAC_NOUNS_01 ;
+@U.GEN.PLit@ WAC_NOUNS_01 ;
+
+
+!LEXICON WAC_NOUNS_0/MAXH
+!WAC_NOUNS_01 ;
+
+LEXICON WAC_NOUNS_01
+@U.GEN.SGa@+Sg:@U.GEN.SGa@ WAC_NOUNS_02 ;
+@U.GEN.SGi@+Sg:@U.GEN.SGi@ WAC_NOUNS_02 ;
+@U.GEN.PLit@+Pl:@U.GEN.PLit@ WAC_NOUNS_02 ;
+
+LEXICON WAC_NOUNS_02
++All:%>pa WAC_NOUNS_03 ;
++Dat:%>iamt WAC_NOUNS_03 ;
+
+LEXICON WAC_NOUNS_03
+@R.PX.SG1@+PxSg1:@R.PX.SG1@ # ;
+@R.PX.SG2@+PxSg2:@R.PX.SG2@ # ;
+@R.PX.SG3C@+PxSg3C:@R.PX.SG3C@ # ;
+@R.PX.SG3F@+PxSg3F:@R.PX.SG3F@ # ;
+@R.PX.SG3M@+PxSg3M:@R.PX.SG3M@ # ;
+@R.PX.DU1@+PxDu1:@R.PX.DU1@ # ;
+@R.PX.DU2@+PxDu2:@R.PX.DU2@ # ;
+@R.PX.DU3@+PxDu3:@R.PX.DU3@ # ;
+@R.PX.PL1INC@+PxPl1Inc:@R.PX.PL1INC@ # ;
+@R.PX.PL1EXC@+PxPl1Exc:@R.PX.PL1EXC@ # ;
+@R.PX.PL2@+PxPl2:@R.PX.PL2@ # ;
+@R.PX.PL3@+PxPl3:@R.PX.PL3@ # ;
+@D.PX@ # ;
+
+
+
 ! vim: set ft=xfst-lexc:
 
