@@ -4,5 +4,13 @@
 
 LEXICON Nouns
 noun+N:noun    Cases   ;
+ichʼank+N+Masc:chʼank WAC_NOUNS_I/IT "male deer" ;
+igunat+N+Masc:gunat WAC_NOUNS_I/IT "Chinook salmon" ;
+iqʼinachx̱wai+N+Masc:qʼinachx̱wai WAC_NOUNS_I/IT "bullhead" ;
+!itqwƚi+N:qwƚi WAC_NOUNS_0/MAXH "house" ;
+aunaíax̱+N+Fem:unaíax̱ WAC_NOUNS_A/ID "huckleberry" ;
+ag̱úlul+N+Fem:g̱úlul WAC_NOUNS_A/IT "acorn" ;
+aƚagagwuli+N+Fem:ƚagagwuli WAC_NOUNS_A/IT "spider" ;
+
 
 ! vim: set ft=xfst-lexc:
