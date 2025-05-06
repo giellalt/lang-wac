@@ -9,7 +9,38 @@ Alphabet
  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å
  Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð
 
- %>:0 ;
+ā ē ū ī ō
+
+
+ ǃ  !! * U+01C3 LATIN LETTER RETROFLEX CLICK
+ ʹ  !! * U+02B9 MODIFIER LETTER PRIME
+ ᴇ  !! * U+1D07 Latin Letter Small Capital E ᴇ
+ Ł  !! * U+0141 Latin Capital Letter L with Stroke Ł
+ ł  !! * U+0142 Latin Small Letter L with Stroke ł
+ ᵘ  !! * U+1D58 Modifier letter small U
+ x̣  !! * x with combining dot below U+0323
+ g̣  !! * g with combining dot below U+0323
+ 
+
+!! Literal quotes and angles must be escaped (cf morpheme boundaries below):
+
+ »7     !! * »
+ «7     !! * «
+ %[%>%] !! * >
+ %[%<%] !! * <
+
+!! Morpheme boundaries:
+ «  !! * Derivational prefix
+ »  !! * Derivational suffix
+ %< !! * Inflectional prefix
+ %> !! * Inflectional suffix
+ #  !! * Word boundary for both lexicalised and dynamic compounds
+ %^ !! * (exceptional) soft hyphenation point
+ %- !! * Hyphen for question particle
+ ∑  !! * Compounding rules
+
+!! End of alphabet definitions
+;
 
 Sets
 
