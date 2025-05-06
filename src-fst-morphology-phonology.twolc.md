@@ -2,6 +2,12 @@
 The Wasco-Wishram morphophonological/twolc rules file !
 =================================== !
 
+* U+01E4 LATIN CAPITAL LETTER G With Stroke
+* U+01E5 LATIN SMALL LETTER G With Stroke
+* X and U+0331 Combining Macron Below
+* x and U+0331 Combining Macron Below
+* U+02BC MODIFIER LETTER APOSTROPHE
+
 * U+01C3 LATIN LETTER RETROFLEX CLICK
 * U+02B9 MODIFIER LETTER PRIME
 * U+1D07 Latin Letter Small Capital E ᴇ
