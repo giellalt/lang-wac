@@ -3,14 +3,20 @@
 !! =================================== !
 
 Alphabet
- a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
- á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç
+ a b c d e f g h i j k l m n o p q r s t u v w x y z 
+ á é ó ú í ä â ê ô û î
 
- A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å
- Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð
+ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+ Á É Ó Ú Í Ä Â Ê Ô Û Î
 
-ā ē ū ī ō
-
+!  Spilyay Tymoo, 1996-05-09: 6
+ Ǥ  !! * U+01E4 LATIN CAPITAL LETTER G With Stroke
+ ǥ  !! * U+01E5 LATIN SMALL LETTER G With Stroke
+ X̱  !! * X and U+0331 Combining Macron Below
+ x̱  !! * x and U+0331 Combining Macron Below
+ ʼ  !! * U+02BC MODIFIER LETTER APOSTROPHE
+ !historical
+ ā ē ū ī ō
 
  ǃ  !! * U+01C3 LATIN LETTER RETROFLEX CLICK
  ʹ  !! * U+02B9 MODIFIER LETTER PRIME
