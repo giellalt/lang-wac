@@ -1,0 +1,41 @@
+!! Prefixes
+!  --------
+!! Prefixes in the Wasco-Wishram language are attatched to the left of other words.
+
+LEXICON Prefixes
+!nounprefix-     Nouns   ;
+!verbprefix-     Verbs   ;
+@U.GEN.SGa@:@U.GEN.SGa@a%< WAC_PX_NOUN ;
+@U.GEN.SGi@:@U.GEN.SGi@i%< WAC_PX_NOUN ;
+@U.GEN.PLit@:@U.GEN.PLit@it%< WAC_PX_NOUN ;
+@U.GEN.PLid@:@U.GEN.PLid@id%< WAC_PX_NOUN ;
+
+@U.TENSE.PAST4@:@U.TENSE.PAST4@ga%< WAC_PREVERBS_01 ;
+ WAC_PREVERBS_01 ;
+
+LEXICON WAC_PREVERBS_01
+WAC_PREVERBS_02 ;
+LEXICON WAC_PREVERBS_02
+WAC_PREVERBS_03 ;
+LEXICON WAC_PREVERBS_03
+WAC_PREVERBS_04 ;
+LEXICON WAC_PREVERBS_04
+Verbs ;
+
+LEXICON WAC_PX_NOUN
+ Nouns ;
+@U.PX.SG1@:@U.PX.SG1@k%< Nouns ;
+@U.PX.SG2@:@U.PX.SG2@mi%< Nouns ;
+@U.PX.SG3C@:@U.PX.SG3C@ƚa%< Nouns ;
+@U.PX.SG3F@:@U.PX.SG3F@ga%< Nouns ;
+@U.PX.SG3M@:@U.PX.SG3M@ia%< Nouns ;
+!@U.PX.DU1@ Nouns ;
+!@U.PX.DU2@ Nouns ;
+!@U.PX.DU3@ Nouns ;
+!@U.PX.PL1INC@ Nouns ;
+@U.PX.PL1EXC@:@U.PX.PL1EXC@nsha%< Nouns ;
+!@U.PX.PL2@ Nouns ;
+@U.PX.PL3@:@U.PX.PL3@da%< Nouns ;
+
+
+! vim: set ft=xfst-lexc:
