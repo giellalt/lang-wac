@@ -12,5 +12,14 @@ aunaíax̱+N+Fem:unaíax̱ WAC_NOUNS_A/ID "huckleberry" ;
 ag̱úlul+N+Fem:g̱úlul WAC_NOUNS_A/IT "acorn" ;
 aƚagagwuli+N+Fem:ƚagagwuli WAC_NOUNS_A/IT "spider" ;
 
+!!check me 2025-05-06
+imulak+N+Masc:mulak WAC_NOUNS_I/IT "elk" ;
+iskintwa+N+Masc:skintwa WAC_NOUNS_I/IT "black bear" ;
+ikauxau+N+Masc:kauxau WAC_NOUNS_I/IT "owl" ;
+ikawa+N+Masc:kawa WAC_NOUNS_I/IT "badger" ;
+iknaʼan+N+Masc:knaʼan WAC_NOUNS_I/IT "magpie" ;
+iǥanuk+N+Masc:ǥanuk WAC_NOUNS_I/IT "beaver" ;
+iskʼulya+N+Masc:skʼulya WAC_NOUNS_I/IT "coyote" ;
+
 
 ! vim: set ft=xfst-lexc:
