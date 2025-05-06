@@ -45,6 +45,10 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 
 !! The possession is marked as such:
  +PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3
+ !extra (kiksht)
+ +PxSg3M +PxSg3F +PxSg3C
+ +PxPl1Inc +PxPl1Exc
+
 !! The comparative forms are:
  +Comp +Superl
 !! Numerals are classified under:
@@ -99,6 +103,9 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! source and target part-of-speech.
  +V→N +V→V +V→A
  +Der/xxx
+ +Der
++Der/NomAg   !!≈ * **@CODE@** agent V»N 
++Der/NomAct   !!≈ * **@CODE@** action V»N 
 
 
 !! Morphophonology
@@ -138,16 +145,58 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  @U.Cap.Obl@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
  @U.Cap.Opt@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
 
+!! ### VERBS
+@U.Sc.Sg3@ !!= * @CODE@ 
+@U.Sc.Pl3@ !!= * @CODE@ 
+@R.Sc.Sg3@ !!= * @CODE@ 
+@R.Sc.Pl3@ !!= * @CODE@ 
+@D.Sc@ !!= * @CODE@ 
+@C.Sc@ !!= * @CODE@ 
+
+!! wac NOUNS
+@U.PX.SG1@
+@U.PX.SG2@
+@U.PX.SG3M@
+@U.PX.SG3F@
+@U.PX.SG3C@
+@U.PX.DU1@
+@U.PX.DU2@
+@U.PX.DU3@
+@U.PX.PL1INC@
+@U.PX.PL1EXC@
+@U.PX.PL2@
+@U.PX.PL3@
+
+@R.PX.SG1@
+@R.PX.SG2@
+@R.PX.SG3M@
+@R.PX.SG3F@
+@R.PX.SG3C@
+@R.PX.DU1@
+@R.PX.DU2@
+@R.PX.DU3@
+@R.PX.PL1INC@
+@R.PX.PL1EXC@
+@R.PX.PL2@
+@R.PX.PL3@
+@D.PX@
+
+@U.GEN.SGa@
+@U.GEN.SGi@
+@U.GEN.PLit@
+@U.GEN.PLid@
+
 LEXICON Root
 !! The word forms in Wasco-Wishram language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
- Nouns       ;
- Verbs       ;
+! Nouns       ;
+! Verbs       ;
  Adjectives  ;
  Pronouns    ;
  Numerals    ;
  Prefixes    ;
  Punctuation ;
  Symbols     ;
+
 
 ! vim: set ft=xfst-lexc:
