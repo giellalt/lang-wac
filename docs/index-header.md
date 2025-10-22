@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-wac)](https://github.com/giellalt/lang-wac/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-wac)](https://github.com/giellalt/lang-wac/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-wac?label=CI)](https://builds.giellalt.org/pipelines/lang-wac/builds/latest)
-[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the **Wasco-Wishram language model**. 
 
